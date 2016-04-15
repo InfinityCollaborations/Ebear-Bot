@@ -1,11 +1,12 @@
-### **hack.chat Bot**
+## **hack.chat Bot**
 
-Simple bot for https://hack.chat/ written in python.
-Runs 'ExistentialismBear' CLI program and dumps its the output on the chat.
+>Simple bot for https://hack.chat/ written in python.
+Runs [ExistentialismBear](https://github.com/WhiteheadV/ExistentialistBear) CLI program and as one of its commands.
 
 ### **Usage**
 
-Specify your directory paths to 'ExistentialsimBear' folder in main.py with python(Requires python 3).
+Specify your directory paths to 'ExistentialsimBear' folder in main.py.
+Run the bot(requires python3).
 Use the bot by joining ?programming and typing |h to get a list of commands.
 
 ### **Contributing**
