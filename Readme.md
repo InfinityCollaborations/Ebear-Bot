@@ -7,7 +7,7 @@ Runs [ExistentialismBear](https://github.com/WhiteheadV/ExistentialistBear) CLI 
 
 Specify your directory paths to 'ExistentialsimBear' folder in main.py.
 Run the bot(requires python3).
-Use the bot by joining ?programming and typing |h to get a list of commands.
+Use the bot by joining [?programming](https://hack.chat/?programming) and typing |h to get a list of commands.
 
 ### **Contributing**
 
