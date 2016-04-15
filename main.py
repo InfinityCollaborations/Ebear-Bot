@@ -23,11 +23,11 @@ def run(*args):
 
 def runBear(sors):
     if sors:
-        p = subprocess.Popen("./Ebear -s", cwd="/home/theone/Documents/Atom(SSD)/ExistentialistBear/", stdout=subprocess.PIPE, shell=True)
+        p = subprocess.Popen("./Ebear -s", cwd="path to ExistentialistBear dir", stdout=subprocess.PIPE, shell=True)
         (output, err) = p.communicate()
         return output
     else:
-        p = subprocess.Popen("./Ebear", cwd="/home/theone/Documents/Atom(SSD)/ExistentialistBear/", stdout=subprocess.PIPE, shell=True)
+        p = subprocess.Popen("./Ebear", cwd="path to ExistentialistBear dir", stdout=subprocess.PIPE, shell=True)
         (output, err) = p.communicate()
         return output
 
